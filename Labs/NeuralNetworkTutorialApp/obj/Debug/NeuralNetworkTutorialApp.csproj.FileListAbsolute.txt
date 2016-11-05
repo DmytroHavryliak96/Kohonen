@@ -1,0 +1,8 @@
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторні\Labs\NeuralNetworkTutorialApp\bin\Debug\NeuralNetworkTutorialApp.exe.config
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторні\Labs\NeuralNetworkTutorialApp\bin\Debug\NeuralNetworkTutorialApp.exe
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторні\Labs\NeuralNetworkTutorialApp\bin\Debug\NeuralNetworkTutorialApp.pdb
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторні\Labs\NeuralNetworkTutorialApp\bin\Debug\BackPropagation.dll
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторні\Labs\NeuralNetworkTutorialApp\bin\Debug\BackPropagation.pdb
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторні\Labs\NeuralNetworkTutorialApp\obj\Debug\NeuralNetworkTutorialApp.csprojResolveAssemblyReference.cache
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторні\Labs\NeuralNetworkTutorialApp\obj\Debug\NeuralNetworkTutorialApp.exe
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторні\Labs\NeuralNetworkTutorialApp\obj\Debug\NeuralNetworkTutorialApp.pdb

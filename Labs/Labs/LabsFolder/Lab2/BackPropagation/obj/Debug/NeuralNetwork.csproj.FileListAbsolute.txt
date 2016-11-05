@@ -1,0 +1,5 @@
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторні\Labs\Labs\LabsFolder\Lab2\BackPropagation\bin\Debug\BackPropagation.dll
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторні\Labs\Labs\LabsFolder\Lab2\BackPropagation\bin\Debug\BackPropagation.pdb
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторні\Labs\Labs\LabsFolder\Lab2\BackPropagation\obj\Debug\NeuralNetwork.csprojResolveAssemblyReference.cache
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторні\Labs\Labs\LabsFolder\Lab2\BackPropagation\obj\Debug\BackPropagation.dll
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторні\Labs\Labs\LabsFolder\Lab2\BackPropagation\obj\Debug\BackPropagation.pdb
