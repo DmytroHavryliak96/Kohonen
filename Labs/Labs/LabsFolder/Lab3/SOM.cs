@@ -36,7 +36,7 @@ namespace Labs.LabsFolder.Lab3
             for(int i = 0; i < size; i++)
             {
                 for (int j = 0; j < parameters; j++)
-                    input[i][j] = rdn.Next();
+                    input[i][j] = rdn.NextDouble();
             }
 
         }
