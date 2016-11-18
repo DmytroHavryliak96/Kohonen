@@ -398,18 +398,22 @@ namespace NeuralNetwork
         private void Train(double maxError)
         {
             double currentError = double.MaxValue;
-            List<double[]> TrainingSet = new List<double[]>();
-
-            foreach (double[] input in inputs)
+            while (currentError > maxError) 
             {
-                TrainingSet.Add(input);
-            }
+                currentError = 0;
+                List<double[]> TrainingSet = new List<double[]>();
+        
+                foreach (double[] input in inputs)
+                {
+                    TrainingSet.Add(input);
+                }
 
-            for (int i = 0; i < inputs.Count; i++)
-            {
-                double[] input = TrainingSet[rnd.Next(inputs.Count - i)];
-                currentError += TrainInput(input);
-                TrainingSet.Remove(input);
+                for (int i = 0; i < inputs.Count; i++)
+                {
+                    double[] input = TrainingSet[rnd.Next(inputs.Count - i)];
+                    currentError += TrainInput(input);
+                    TrainingSet.Remove(input);
+                }
             }
         }
 
